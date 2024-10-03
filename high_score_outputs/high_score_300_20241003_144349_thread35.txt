@@ -1,0 +1,14 @@
+Would you like to play the slots? (Yes/yes/Y/y) :
+y
+y
+You have $100. How much would you like to wager?
+100
+100
+
+Great! Let's play!!!
+Your rolls are: 
+_______________________
+ | 9 | 9 | 9 |
+_______________________
+JACKPOT! You're wager has now been tripled!
+You now have $300.
